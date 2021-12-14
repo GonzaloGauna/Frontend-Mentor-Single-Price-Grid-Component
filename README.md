@@ -19,11 +19,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./images/screely-1.png)(./images/screely-2.png)
 
 ### Links
 
-- Live Site URL: [Live Site](https://cw-newsletter-card-gonzalo-gauna.netlify.app/)
+- Live Site URL: [Live Site](https://fm-single-price-grid-component-gonzalo-gauna.netlify.app/)
 
 ## My process
 
