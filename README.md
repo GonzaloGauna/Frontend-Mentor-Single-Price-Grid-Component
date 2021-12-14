@@ -19,7 +19,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screely-1.png)(./images/screely-2.png)
+![](./images/screely-1.png)
+![](./images/screely-2.png)
 
 ### Links
 
